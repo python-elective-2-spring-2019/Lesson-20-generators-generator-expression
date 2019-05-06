@@ -1,5 +1,5 @@
 # Lesson 20: Generators, Generator expression
-> Agenda 03-05-2019
+> Agenda 07-05-2019
 
 Today we will look at:
 * Iterator class
